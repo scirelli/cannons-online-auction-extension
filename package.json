@@ -1,0 +1,27 @@
+{
+  "name": "cannons-online-auction-extension",
+  "version": "0.0.1",
+  "description": "Cannon's Auction site is very poorly designed. This extension is meant to improve usability.",
+  "main": "background.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scirelli/cannons-online-auction-extension.git"
+  },
+  "keywords": [
+    "cannons",
+    "online",
+    "auction"
+  ],
+  "author": "Steve Cirelli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scirelli/cannons-online-auction-extension/issues"
+  },
+  "homepage": "https://github.com/scirelli/cannons-online-auction-extension#readme",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
